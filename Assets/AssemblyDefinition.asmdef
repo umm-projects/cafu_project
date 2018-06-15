@@ -1,0 +1,12 @@
+{
+    "name": "umm@cafu_project",
+    "references": [
+        "umm@cafu_core",
+        "umm@context_management",
+        "umm@setting_core"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
